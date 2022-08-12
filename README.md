@@ -2,7 +2,7 @@
 
 Meu nome é Joyce, tenho 34 anos e comecei meu aprendizado em Data Science no primeiro semestre de 2022. 🖥
 
-Estou fazendo diversos cursos nas áreas correlatas e você consegue encontrar os notebooks com os projetos realizados durantes os treinamentos aqui.
+Estou fazendo diversos cursos nas áreas correlatas e você consegue encontrar os notebooks/materiais com os projetos realizados durantes os treinamentos aqui.
 
 Fique à vontade, dê uma olhadinha! 👀
 
